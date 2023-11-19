@@ -67,3 +67,13 @@
     min-width: 2em;
     font: bold 0.4em sans-serif;
 }
+.login-link{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    color: blue;
+}
+.ecart-link{
+    font-weight: bold;
+    font-size:x-large;
+}
